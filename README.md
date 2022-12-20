@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on the website for Ignite Hubs
 
-- 🌱 I’m currently learning JS on The Complete JavaScript Course on Udemy
+- 🌱 I’m currently finishing JS on The Complete JavaScript Course on Udemy
 
 - 👯 I’m looking to collaborate on Edtech projects
 
