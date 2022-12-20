@@ -15,7 +15,7 @@
 
 - 💬 Ask me about JS & Reactjs
 
-- 📫 How to reach me: [Sumeyya](jasumdev@gmail.com)
+- 📫 How to reach me: [Sumeyya](mailto:jasumdev@gmail.com?subject=[Email])
 
 - ⚡ Fun fact: I can speak 4 languages
 
