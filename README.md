@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently finishing The Complete JavaScript Course
 
-- 👯 I’m looking to collaborate on Edtech projects
+- 👯 I’m looking to collaborate on anything interesting
 
 - 💬 Ask me about JS & Reactjs
 
