@@ -7,11 +7,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on the website for Ignite Hubs
+- 🔭 I’m currently collaborating on the website for Ignite Hubs
 
 - 🌱 I’m currently finishing The Complete JavaScript Course
 
-- 👯 I’m looking to collaborate on anything interesting
+- 👯 I’m looking to work on anything interesting
 
 - 💬 Ask me about JS & Reactjs
 
