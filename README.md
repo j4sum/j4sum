@@ -25,11 +25,11 @@
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://twitter.com/_jasum_">
+    <a style="margin-left: 10px;" href="https://twitter.com/_jasum_" target="_blank" >
 			<img src="https://user-images.githubusercontent.com/22180351/208762312-9261f93c-fb43-47e2-9ef6-294f0dbb32d4.png"></a>
-      <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/sumeyya-javaid/">
+      <a style="margin-left: 10px;" href="https://www.linkedin.com/in/sumeyya-javaid/" target="_blank" >
        <img src="https://user-images.githubusercontent.com/22180351/208762097-681abcdc-df56-41ba-ad03-a9d7d81d8e4c.png"></a>
-       <a style="margin-left: 10px;" target="_blank" href="https://github.com/j4sum">
+       <a style="margin-left: 10px;" href="https://github.com/j4sum" target="_blank" >
 		   <img src="https://user-images.githubusercontent.com/22180351/208761837-6af02b8c-aedb-4610-ae99-b0d773f2c8d1.png"></a>
       </div>
 
