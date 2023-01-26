@@ -7,7 +7,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif">
 </a>
 
-- 🔭 I’m currently collaborating on the mentorship website for WWCode London
+- 🔭 I’m currently collaborating on the Ignite Hubs website.
 
 - 🌱 I’m currently finishing The Complete JavaScript Course
 
