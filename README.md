@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to work on anything interesting
 
-- 💬 Ask me about JS & Reactjs
+- 💬 Ask me about JS & Vue
 
 - 📫 How to reach me: [Sumeyya](mailto:jasumdev@gmail.com?subject=[Email])
 
